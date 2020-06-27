@@ -41,7 +41,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
 
     'rest_framework',
-    'zeton_backend.points'
+    'zeton_backend.points',
 ]
 
 MIDDLEWARE = [
